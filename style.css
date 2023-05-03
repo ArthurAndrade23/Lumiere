@@ -217,7 +217,7 @@ button {
     color: #000;
     cursor: pointer;
     transition: all .25s ease-in-out;
-    margin-left: 45cqw;
+    margin-left: 0;
 }
 
 .label {

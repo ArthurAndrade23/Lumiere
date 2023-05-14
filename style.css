@@ -32,6 +32,15 @@
     padding: 15px 0;
     font-size: 25px;
 }
+.cabecalho-projetos{
+    background-color: #ba5c04;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
+    font-size: 25px;
+}
 
 .cabeçalho-lista-item {
     display: inline-block;
@@ -67,6 +76,13 @@
 
 .sobre {
     background-image: linear-gradient(#15205A, #5767B8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sobre-projetos{
+    background-image: linear-gradient(#c78d46, #e8cc80);
     color: white;
     display: flex;
     justify-content: center;

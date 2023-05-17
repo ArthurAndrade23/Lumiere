@@ -394,6 +394,17 @@ button.like path {
     background: -webkit-linear-gradient(#c78d46, #e8cc80);
     background: -o-linear-gradient(#c78d46, #e8cc80);
 }
+.modalDialog2>div {
+    width: 80%;
+    position: relative;
+    margin: 10% auto;
+    padding: 5px 20px 13px 20px;
+    border-radius: 10px;
+    background: #fff;
+    background: -moz-linear-gradient(#c78d46, #e8cc80);
+    background: -webkit-linear-gradient(#c78d46, #e8cc80);
+    background: -o-linear-gradient(#c78d46, #e8cc80);
+}
 
 .close {
     background: #606061;

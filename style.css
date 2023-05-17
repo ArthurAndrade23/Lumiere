@@ -390,9 +390,9 @@ button.like path {
     padding: 5px 20px 13px 20px;
     border-radius: 10px;
     background: #fff;
-    background: -moz-linear-gradient(#15205A, #5767B8);
-    background: -webkit-linear-gradient(#15205A, #5767B8);
-    background: -o-linear-gradient(#15205A, #5767B8);
+    background: -moz-linear-gradient(#c78d46, #e8cc80);
+    background: -webkit-linear-gradient(#c78d46, #e8cc80);
+    background: -o-linear-gradient(#c78d46, #e8cc80);
 }
 
 .close {

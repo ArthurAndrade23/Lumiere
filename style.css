@@ -47,6 +47,11 @@
     margin: 0 16px;
     color: white;
 }
+.cabeçalho-lista-item2 {
+    display: inline-block;
+    margin: 0 20px;
+    color: white;
+}
 .links-filme {
     display: inline-block;
     margin: 0 16px;

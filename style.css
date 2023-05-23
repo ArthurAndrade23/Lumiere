@@ -49,7 +49,7 @@
 }
 .cabeçalho-lista-item2 {
     display: inline-block;
-    margin: 40 40px;
+    margin: 0 40px 10;
     color: white;
 }
 .links-filme {
